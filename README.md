@@ -1,5 +1,9 @@
 # Simulador de Mecanismos
 
+<p align="center">
+   <img src="./Media/Mecanismo 4 Barras.PNG" width="40%" />
+</p>
+
 Simulador que utiliza las ecuaciones de síntesis de posición analítica de mecanismos de 4 barras para generar una animación del mecanismo en funcionamiento. En conjunto con la animación, el programa también despliega las gráficas de la evolución de los diferentes ángulos del mecanismo durante su movimiento.
 
 ## Mecanismos de 4 Barras "Estándar"
@@ -9,11 +13,16 @@ Para comenzar a utilizar el script, el usuario debe abrir `Sintesis_Posicion_Mec
 <p align="center">
    <img src="./Media/Animacion1.gif" width="40%" />
    <img src="./Media/Animacion2.gif" width="40%" /> 
+   <img src="./Media/Evolucion Parametros.PNG" width="40%" /> 
 </p>
 
 ## Manivela Corredera
 
 Si el usuario lo desea, se pueden simular otras variaciones del mecanismo de 4 barras, como un mecanismo manivela corredera, el cual cuenta con las mismas opciones que el mecanismo de 4 barras "estándar", con la excepción que no se puede establecer el largo de su eslabón `d` ya que este cambia libremente durante el movimiento. Se ofrecen las mismas opciones que antes, generación de gráficas con la evolución de diferentes parámetros, así como una animación con la posibilidad de cambiar entre la versión abierta o cerrada del mecanismo.
+
+<p align="center">
+   <img src="./Media/Manivela Corredera.gif" width="40%" />
+</p>
 
 ## Mecanismo de 5 Barras
 
